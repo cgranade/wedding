@@ -1,7 +1,10 @@
 # Site settings
 title: Kaiser • Granade
 email: wedding@kaiser-granade.com
-url: https://wedding.kaiser-granade.com
+# TODO: uncomment this once DNS has settled down.
+# url: http://wedding.kaiser-granade.com
+url: http://www.cgranade.com/wedding/
+baseurl: http://www.cgranade.com/wedding
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
