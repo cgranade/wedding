@@ -1,0 +1,26 @@
+# Site settings
+title: Kaiser • Granade
+email: wedding@kaiser-granade.com
+url: https://wedding.kaiser-granade.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Sarah Kaiser and Chris Granade
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/cgranade
+  - title: twitter
+    url: https://twitter.com/crazy4pi314
+  - title: github
+    url: https://github.com/cgranade/wedding
+
+# Build settings
+markdown: kramdown
+permalink: pretty
